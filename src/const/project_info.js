@@ -11,7 +11,7 @@ export default {
       id: 0,
       name: "Website - Sakuravee: Streamer, Influencer",
       tools: "Next JS - React JS - SASS - Node JS",
-      link: "https://sakuravee.tk/home",
+      link: "https://sakuravee.tk/",
       image: [require("../assets/img/sakuravee.jpg")],
     },
     {
