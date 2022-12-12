@@ -18,7 +18,7 @@ function SocialIcons() {
   return (
     <Col xl={12} className="social-icons">
       <a
-        href="mailto:me@danielbrown.com.br"
+        href="mailto:daniel.brown@dumboldspider.com"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -34,7 +34,7 @@ function SocialIcons() {
       </a>
 
       <a
-        href="https://github.com/danielbrown4"
+        href="https://github.com/danbrown"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -49,13 +49,6 @@ function SocialIcons() {
       </a>
       <br />
       <a
-        href="https://api.whatsapp.com/send?phone=553888146598"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <FontAwesomeIcon className="whatsapp" icon={faWhatsapp} />
-      </a>
-      <a
         href="https://twitter.com/odanielbrown"
         target="_blank"
         rel="noopener noreferrer"
@@ -63,7 +56,7 @@ function SocialIcons() {
         <FontAwesomeIcon className="twitter" icon={faTwitter} />
       </a>
       <a
-        href="https://www.instagram.com/odanielbrown/"
+        href="https://www.instagram.com/odanbrown/"
         target="_blank"
         rel="noopener noreferrer"
       >
